@@ -33,3 +33,6 @@ ul {
   border: 5px solid rgb(155, 148, 148);
   box-shadow: 5px 10px #a48f8f;
 }
+p {
+  text-align: center;
+}
